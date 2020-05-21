@@ -109,3 +109,4 @@ runAsync1().then(function(data) {
 }).then(function(data) {
     console.log(data);
 })
+console.log("after multi then chain")
